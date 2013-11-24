@@ -1,4 +1,5 @@
-# ATTITUDE that a competent graphic designer should have…
+Below is a list of ATTITUDES that a competent graphic designer should have.
+
 * Creative but organized
 * Detail oriented
 * Shows initiative when it comes to solving problems (i.e. able to correctly identify problems and come up with solutions)

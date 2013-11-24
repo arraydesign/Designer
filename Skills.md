@@ -1,10 +1,28 @@
-SKILLS that a competent graphic designer should have…
+Below is a list of SKILLS that a competent graphic designer should have. They are broken down into three main sections: General Skills, Design Skills & Technical Skills.
 
-# Brainstorming
+______________
+# GENERAL SKILLS
 
-# Sketching / diagraming / wire-framing
+## Organization
 
-# Creating mood-boards / collages
+## Communication
+Have the ability to…
+* …present their work in a clear & confident manner;
+* …create compelling keynote presentations;
+* …listen to criticism and incorporate feedback about their work;
+* …take notes during meetings that effectively summarize key points made by all participants.
+
+_____________
+# DESIGN SKILLS
+
+## Brainstorming
+
+## Sketching / diagraming / wire-framing
+
+## Creating mood-boards / collages
+
+________________
+# TECHNICAL SKILLS
 
 # Adobe Illustrator
 - Setting up an RGB document with Pixel as the General Unit
@@ -20,11 +38,3 @@ SKILLS that a competent graphic designer should have…
 # Front-end development
 (CSS/XHTML/jQuery)
 
-# Organization
-
-# Communication
-Have the ability to…
-* …present your work in a clear & confident manner;
-* …create compelling keynote presentations;
-* …listen to criticism and incorporate feedback about your work;
-* …efficiently take notes during meetings and effectively summarize key points afterwards.

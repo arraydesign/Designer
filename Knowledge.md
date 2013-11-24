@@ -1,9 +1,10 @@
-# KNOWLEDGE that a competent graphic designer should have…
+Below is a list of KNOWLEDGE that a competent graphic designer should have a good grasp of.
 
-* Design Elements & Principles
+# Design Elements & Principles
 - Line, Colour, Shape, Texture, Space, Form
 - Unity, Balance, Hierarchy, Scale/Proportion, Dominance/Emphasis, Contrast/Similarity
-* Typography
+
+# Typography
 - Leading, kerning, spacing, etc.
 - Hierarchy and rhythm
 - Basically has read “The Elements of Typographic Style”

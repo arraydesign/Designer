@@ -3,10 +3,17 @@ Below is a list of SKILLS that a competent graphic designer should have. They ar
 ______________
 # GENERAL SKILLS
 
-## Organization
-
-## Communication
+## 1. Organization
 Have the ability to…
+* …organize ideas, objects, documents, files and folders in a coherent manner that improves workflow;
+* …manage & prioritize multiple to-dos;
+* …formulate an effective design process;
+* …work within a pre-defined design process;
+
+## 2. Communication
+Have the ability to…
+* …explain their ideas & concepts;
+* …write concisely & effectively; 
 * …present their work in a clear & confident manner;
 * …create compelling keynote presentations;
 * …listen to criticism and incorporate feedback about their work;
@@ -15,26 +22,38 @@ Have the ability to…
 _____________
 # DESIGN SKILLS
 
-## Brainstorming
+## 3. Brainstorming / mind-mapping
+Have the ability to…
+* …generate ideas / solutions without getting stuck in the mud by criticizing, self-censoring or getting distracted;
+* …riff-off other people’s ideas and use lateral thinking to produce original or derivative ideas / solutions.
 
-## Sketching / diagraming / wire-framing
+## 4. Sketching / diagraming / wire-framing
+Have the ability to…
+* …sketch out a layout, illustration or photograph;
+* …diagram a concept or process;
+* …wireframe an interface.
 
-## Creating mood-boards / collages
+## 5. Creating mood-boards / collages
+Have the ability to…
+* …find relevant visual materials that effectively communicate a feeling, aesthetic or visual direction;
+* …put together the above mentioned materials in a coherent package.
+
+## 6. Illustration / artistic talent
 
 ________________
 # TECHNICAL SKILLS
 
-# Adobe Illustrator
+# 6. Adobe Illustrator
 - Setting up an RGB document with Pixel as the General Unit
 - Setting up a CMYK document with Points as the General Unit
 - Change the Blending Mode for the fill of an object without changing the Blending Mode of its stroke
 
-# Adobe Photoshop
+# 7. Adobe Photoshop
 - …
 
-# Adobe InDesign
+# 8. Adobe InDesign
 - Setting up a 16 page 8.5" by 11" CMYK document with Picas as the General Unit; creating a 3 column grid that has margins of 2p0 all around and gutters of 1p6
 
-# Front-end development
+# 9. Front-end development
 (CSS/XHTML/jQuery)
 

@@ -36,9 +36,16 @@ Have the ability to…
 ## 5. Creating mood-boards / collages
 Have the ability to…
 * …find relevant visual materials that effectively communicate a feeling, aesthetic or visual direction;
-* …put together the above mentioned materials in a coherent package.
+* …describe the feeling, aesthetic or visual direction in a concise yet compelling way through words;
+* …put together the above mentioned materials in a coherent package and present it.
 
 ## 6. Illustration / artistic talent
+Have the ability to…
+* …sketch out ideas, layouts, workflows & interfaces in an effective and efficient manner;
+* …put together colour schemes;
+* …create compelling illustrations, collages, compositions and other artwork;
+* …incorporate typography into illustrations, collages, compositions and other artwork;
+* …incorporate  illustrations, collages, compositions and other artwork into layouts.
 
 ________________
 # TECHNICAL SKILLS

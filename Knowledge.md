@@ -23,3 +23,6 @@ Below is a list of KNOWLEDGE that a competent graphic designer should have a goo
 - Web Development Best Practices
 - HTML5 & CSS3
 * Pre-press
+
+# Adobe Illustrator
+* know the difference between 100k & rich black

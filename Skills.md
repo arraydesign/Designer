@@ -51,9 +51,16 @@ ________________
 # TECHNICAL SKILLS
 
 # 6. Adobe Illustrator
-- Setting up an RGB document with Pixel as the General Unit
-- Setting up a CMYK document with Points as the General Unit
-- Change the Blending Mode for the fill of an object without changing the Blending Mode of its stroke
+Have the ability to…
+* …set up an RGB document with Pixels as the general unit of measure;
+* …set up a CMYK document with Points as the general unit of measure;
+* …set up multiple art boards;
+* …set up a grid and guidelines / smart-guidelines;
+* …turn on / off layer specific options such as 	lock, show, print, preview, etc;
+* …mask object(s) in a layer;
+* …change the blending mode for the fill of an object without changing the blending mode of its stroke;
+* …replace missing font(s) in a document;
+* …
 
 # 7. Adobe Photoshop
 - …
